@@ -1,10 +1,9 @@
-yo momma
-<<<<<<< HEAD
-make a change
+
+
+wordcurrent stuff
 
 hello
 
 more changes
-=======
 yerrrrr
->>>>>>> eb308873f1d2bf209e001b3e1821090a2c4f16ad
+
